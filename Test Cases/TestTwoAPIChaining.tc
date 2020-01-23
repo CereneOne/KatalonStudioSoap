@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestTwoAPIChaining</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3b28b38-351c-436a-80cc-f046776e3c27</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>667c31a6-44ad-4a34-a201-7e7e64c52d6d</id>
+      <masked>false</masked>
+      <name>countryCode</name>
+   </variable>
+</TestCaseEntity>
